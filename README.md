@@ -76,53 +76,7 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 
 ---
 
-## ⚙️ Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/shubham79a/job-portal.git
-cd job-portal
-```
-
-### 2. Setup Environment Variables
-Create a .env file inside the server/ directory with:
-
-```bash
-MONGODB_URI = ""
-PORT = 8000
-SECRET_KEY = ""
-
-CLOUDINARY_API_KEY = ""
-CLOUDINARY_SECRET_KEY = ""
-CLOUDINARY_NAME = ""
-
-NODE_ENV === ""
-```
-
-### 3. Install Dependencies
-
-```bash
-# Install frontend packages
-cd client
-npm install
-
-# Install backend packages
-cd ../server
-npm install
-```
-
-### 4. Run the Application
-
-```bash
-# Start backend server
-cd server
-npm run dev
-
-# Start frontend dev server
-cd ../client
-npm start
-```
 
 ### Open in browser:
 - **Frontend → http://localhost:5137**
