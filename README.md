@@ -130,20 +130,3 @@ npm start
 
 ---
 
-
-## 📜 License
-- **This project is open-source and licensed under the MIT License.**
-
----
-
-
-## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
-
----
-
-
-## 🙌 Contributions
-**Feel free to fork the repo, submit issues, or open a pull request.**
-**Suggestions and contributions are always welcome!**
